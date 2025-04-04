@@ -1,59 +1,54 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Eduardo Marques | Backend Developer</h1>
 
-###
+<p align="center">
+  Oi! Eu sou o Eduardo, um dev que curte resolver problemas, aprender na marra e transformar <br>
+  ideias em soluções (de preferência com um café do lado ☕).<br><br>
+  No momento, estou focado em me tornar um desenvolvedor backend de verdade. Tenho mergulhado <br>
+  em Go, boas práticas de código, estruturas de dados e desafios que quebram a cabeça (mas que fazem o aprendizado valer a pena 😅).
+</p>
 
-<p align="left">- Desenvolvedor de Software<br>- Cursando Análise e Desenvolvimento de Sistemas</p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
+---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoMark&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMark&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" height="150" alt="languages graph"  />
-</div>
+  <img align="right" height="230" width="250" src="/assets/my-photo.png" alt="Coding Meme"/>
 
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-marques-negalho/" target="_blank">
+  ### Contact
+   <a href="https://www.linkedin.com/in/eduardo-marques-negalho/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:eduardomar1703@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+
+  ### 🛠️ Tech Stack  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
 </div>
 
-###
 
-<picture align="center">
+<br clear="right" />
+
+---
+
+### GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoMark&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoMark&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+</div>
+
+---
+
+### Contributions
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoMark/EduardoMark/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoMark/EduardoMark/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoMark/EduardoMark/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoMark/EduardoMark/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/EduardoMark/EduardoMark/output/github-contribution-grid-snake.svg" />
 </picture>
